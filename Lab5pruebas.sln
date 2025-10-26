@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab5pruebas", "Lab5pruebas\Lab5pruebas.vcxproj", "{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}.Debug|x64.ActiveCfg = Debug|x64
+		{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}.Debug|x64.Build.0 = Debug|x64
+		{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}.Debug|x86.ActiveCfg = Debug|Win32
+		{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}.Debug|x86.Build.0 = Debug|Win32
+		{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}.Release|x64.ActiveCfg = Release|x64
+		{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}.Release|x64.Build.0 = Release|x64
+		{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}.Release|x86.ActiveCfg = Release|Win32
+		{340B4E73-36DB-43AC-9F67-3C0BB7BD6471}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E06AEAF8-C943-409F-A54A-EF0D6A7A6460}
+	EndGlobalSection
+EndGlobal

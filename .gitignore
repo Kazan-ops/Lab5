@@ -1,0 +1,67 @@
+# Compilados
+*.obj
+*.exe
+*.pdb
+*.idb
+*.lib
+*.dll
+*.exp
+*.ilk
+*.sbr
+
+# Archivos temporales y de caché
+*.tmp
+*.log
+*.tlog
+*.cache
+*.ipch
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# Carpetas de compilación
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+out/
+bin/
+obj/
+
+# Archivos de Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Archivos de configuración del usuario
+*.userosscache
+*.rsuser
+*.userprefs
+*.user
+
+# Archivos de CMake (si usa)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de paquetes NuGet
+packages/
+*.nupkg
+*.nuspec
+*.snupkg
+*.psess
+
+# Otros
+*.manifest
+*.tlog
+*.lastbuildstate

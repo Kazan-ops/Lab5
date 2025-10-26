@@ -1,6 +1,12 @@
 #include <iostream>
+#include "Square.h"
+#include "Shape.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	Shape* soyUnaFigura = new Square(2.0);
+
+	double resultado = soyUnaFigura->calculateArea();
+    std::cout << "El area de un cuadrado con area 2 es!\n";
+	std::cout << resultado;
 }
